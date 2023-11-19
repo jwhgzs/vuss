@@ -1,0 +1,12 @@
+{
+  "name": "vuss",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "A cracy CSS framework that connects JS and CSS together.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jwhgzs",
+  "license": "MIT"
+}
