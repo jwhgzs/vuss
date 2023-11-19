@@ -5,12 +5,17 @@
   "description": "A cracy CSS framework that connects JS and CSS together.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc --watch"
   },
   "author": "jwhgzs",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jwhgzs/vuss.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^20.9.2",
+    "typescript": "^5.2.2"
+  }
 }
