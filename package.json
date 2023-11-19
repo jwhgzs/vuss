@@ -8,5 +8,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "jwhgzs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwhgzs/vuss.git"
+  },
   "license": "MIT"
 }
