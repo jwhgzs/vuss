@@ -1,7 +1,7 @@
 {
   "name": "vuss",
   "type": "module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A cracy CSS framework that connects JS and CSS together.",
   "main": "index.js",
   "scripts": {
